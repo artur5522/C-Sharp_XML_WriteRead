@@ -1,0 +1,14 @@
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\obj\Debug\netcoreapp3.1\csproj.csproj.AssemblyReference.cache
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\obj\Debug\netcoreapp3.1\csproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\obj\Debug\netcoreapp3.1\csproj.AssemblyInfoInputs.cache
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\obj\Debug\netcoreapp3.1\csproj.AssemblyInfo.cs
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\obj\Debug\netcoreapp3.1\csproj.csproj.CoreCompileInputs.cache
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\bin\Debug\netcoreapp3.1\csproj.exe
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\bin\Debug\netcoreapp3.1\csproj.deps.json
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\bin\Debug\netcoreapp3.1\csproj.runtimeconfig.json
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\bin\Debug\netcoreapp3.1\csproj.runtimeconfig.dev.json
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\bin\Debug\netcoreapp3.1\csproj.dll
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\bin\Debug\netcoreapp3.1\csproj.pdb
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\obj\Debug\netcoreapp3.1\csproj.dll
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\obj\Debug\netcoreapp3.1\csproj.pdb
+C:\Users\Elpo\Downloads\C-Sharp_XML_WriteRead-main\obj\Debug\netcoreapp3.1\csproj.genruntimeconfig.cache
